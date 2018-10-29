@@ -1,0 +1,2 @@
+# WareHouseAndroidApp
+Warehouse QrCodeScanner Sample
