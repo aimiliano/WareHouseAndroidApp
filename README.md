@@ -1,2 +1,2 @@
-# WareHouseAndroidApp
-Warehouse QrCodeScanner Sample
+# InventoryAndroidApp
+Inventory QrCodeScanner Sample
