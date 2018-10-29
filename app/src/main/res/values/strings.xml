@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Διαχείριση Αποθήκης</string>
+    <string name="welcome">Παρακαλώ επιλέξτε μεταξύ εισαγωγής και εξαγωγής προιόντος</string>
+    <string name="one">Εισαγωγή</string>
+    <string name="tex">Εξαγωγή</string>
+    <string name="o1">Επιλογή καταστήματος</string>
+    <string name="network_error">Κατι δε πάει καλά! Προσπαθήστε ξανά αργότερα!</string>
+    <string name="title">Επιλέξτε Αποθήκη</string>
+    <string name="waiting">Περιμένετε..</string>
+    <string name="selected">Επιλεγμένο κατάστημα:</string>
+    <string name="selected_none">Κανένα</string>
+    <string name="no_shop_sleected">Δεν έχετε επιλέξει Κατάστημα Παρακαλώ επιλέξτε πρώτα.</string>
+    <string name="ok">OK</string>
+    <string name="barcodesnt">BarCode Status</string>
+
+
+    <string name="getStoresURLAPI">----</string>
+    <string name="savebarcodeURLAPI">----</string>
+
+</resources>
